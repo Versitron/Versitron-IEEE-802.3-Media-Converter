@@ -1,2 +1,80 @@
-# Versitron-IEEE-802.3-Media-Converter
-The VERSITRON IEEE 802.3 Media Converter is a rugged DIN rail fiber converter for high-speed Ethernet networks. Ideal for industrial, government, and surveillance applications, it supports multimode to singlemode fiber up to 20km with full-duplex reliability.
+# Versitron | IEEE 802.3 Media Converter | High-Speed Ethernet Converter | DIN Rail Media Converter | Government Surveillance Media Converter
+
+The **VERSITRON IEEE 802.3 Media Converter** is a high-performance **high-speed Ethernet converter** designed for reliable long-distance network and fiber optic communications. Specifically engineered for industrial, commercial, and government applications, this **DIN rail media converter** enables seamless **government surveillance media conversion** over **dual fiber optic lines**, supporting transmission distances of up to **20 kilometers**.
+
+## Product Overview
+
+The **DIN rail fiber media converter** by VERSITRON bridges Ethernet and fiber networks effortlessly. Designed for point-to-point connectivity, this device enables network expansion across buildings, campuses, or remote government facilities using ST and SC fiber connectors.
+
+### Key Features:
+
+- Converts **10/100/1000Base-TX** Ethernet to **fiber** connections  
+- Supports **IEEE 802.3** standards for high-speed data transmission  
+- Transmission range: up to **20km over singlemode fiber**  
+- Compatible with **Duplex Fiber**, enabling full-duplex communication  
+- DIN rail mountable for industrial and government installations  
+- LED status indicators for power, link, and activity  
+
+---
+
+## Media Converter Applications
+
+This **government-grade fiber media converter** is ideal for:
+
+- Expanding high-speed Ethernet networks in industrial and government environments  
+- Integrating legacy Ethernet devices with modern fiber infrastructure  
+- Connecting surveillance systems, routers, and switches in mission-critical networks  
+
+---
+
+## Technical Specifications
+
+| Specification | Description |
+|---------------|-------------|
+| Model | VERSITRON IEEE 802.3 Media Converter |
+| Fiber Type | Multimode to Singlemode |
+| Connectors | ST to SC fiber converter |
+| Wavelength | 1300nm |
+| Distance Support | Up to 20km |
+| Speed | 10/100/1000Base-TX to 100/1000Base-FX |
+| Duplex Mode | Full-duplex / Half-duplex |
+| Power | External 5VDC |
+| Operating Temp | -10°C to 60°C |
+
+---
+
+## Why Choose the VERSITRON Media Converter?
+
+The VERSITRON solution is not just another **high-speed Ethernet converter**. Its industrial-grade durability, DIN rail compatibility, and government-grade performance make it ideal for:
+
+- Government and defense networks  
+- Industrial automation and monitoring  
+- Surveillance and security systems  
+- Remote monitoring and IoT deployments  
+
+Whether you're managing **fiber media conversion for high-speed networks** or connecting critical devices via fiber, the **VERSITRON Media Converter** delivers reliable performance.
+
+---
+
+## Simplified Ethernet to Fiber Connectivity
+
+VERSITRON’s solution enables **Ethernet to fiber transition** without complex setup. Simply connect your **RJ45 Ethernet and fiber cables**, and the converter automatically manages the media type differences.
+
+With **dual fiber support**, it provides **bidirectional full-duplex** communication, critical for applications such as VoIP, IP cameras, and industrial monitoring.
+
+---
+
+## Ordering Information
+
+- Model: IEEE 802.3 Media Converter  
+- Conversion Type: High-Speed Ethernet to Fiber Converter  
+- Connectors: ST to SC fiber  
+- Wavelength: 1300nm  
+- Range: Up to 20km  
+- Speed: 10/100/1000 Mbps Ethernet  
+
+---
+
+[Check the Media Converter Collection](https://www.versitron.com/collections/fiber-optic-media-converters)
+
+---
