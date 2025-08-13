@@ -27,19 +27,22 @@ This **government-grade fiber media converter** is ideal for:
 
 ---
 
-## Technical Specifications
+## VERSITRON IEEE 802.3 Media Converter – Technical Specifications
 
-| Specification | Description |
-|---------------|-------------|
-| Model | VERSITRON IEEE 802.3 Media Converter |
-| Fiber Type | Multimode to Singlemode |
-| Connectors | ST to SC fiber converter |
-| Wavelength | 1300nm |
-| Distance Support | Up to 20km |
-| Speed | 10/100/1000Base-TX to 100/1000Base-FX |
-| Duplex Mode | Full-duplex / Half-duplex |
-| Power | External 5VDC |
-| Operating Temp | -10°C to 60°C |
+| Specification       | Description |
+|---------------------|-------------|
+| Model               | M7260A |
+| Fiber Type          | Singlemode / Multimode (via SFP modules) |
+| Connectors          | RJ45 (Ethernet) / SFP (Fiber) |
+| Distance Support    | Up to 100 km (depending on SFP module) |
+| Speed               | 10/100/1000Base-T to 1000Base-SX/LX |
+| Duplex Mode         | Full-Duplex / Half-Duplex |
+| Power               | External 5VDC |
+| Mounting            | Standalone or DIN Rail |
+| Operating Temp      | 0°C to 55°C |
+| Storage Temp        | -20°C to 70°C |
+| Humidity            | 5% to 90% non-condensing |
+| Certifications      | FCC Part 15 Class B, CE, RoHS |
 
 ---
 
